@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Eckhardt-Optics/CopilotIndices/17.14.1231.31060
+/.vs/Eckhardt-Optics/FileContentIndex
+/.vs/Eckhardt-Optics/v17
+/.vs/ProjectSettings.json
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
